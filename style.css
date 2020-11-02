@@ -1,0 +1,8 @@
+ 
+ <!-- Below is the universal selector-->
+ * {
+    margin:0;
+    padding:0;
+    color:red;
+ }
+ /* This is a single -line comment*/
